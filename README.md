@@ -67,7 +67,7 @@ git clone https://github.com/Mohammed-Naeem-Patel/Drag-and-Drop-App.git
 
 ## 📌 Note
 
-This project was created for learning and practicing the HTML5 Drag and Drop API and improving JavaScript event handling concepts.
+This project was created for learning and practicing drag-and-drop functionality, DOM manipulation, and JavaScript event handling concepts.
 
 ---
 
