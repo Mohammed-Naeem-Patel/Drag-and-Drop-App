@@ -1,14 +1,14 @@
-# 🎯 Drag and Drop App
+# 🎯 Drag & Drop App
 
-A responsive Drag and Drop App built using HTML, CSS, and JavaScript. It allows users to drag and drop items between containers through an interactive and user-friendly interface.
+A responsive Drag & Drop App built using HTML, CSS, and JavaScript. It allows users to drag and drop items between two containers through a simple and interactive interface.
 
 ---
 
 ## 🚀 Project Summary
 
-This project demonstrates the implementation of drag-and-drop functionality using JavaScript. Users can easily move items between two containers, providing a simple and interactive experience.
+This project demonstrates the implementation of drag-and-drop functionality using the HTML5 Drag and Drop API and JavaScript event handling. Users can easily move items between containers in real time without refreshing the page.
 
-This project was built to strengthen my understanding of DOM manipulation, event handling, and the HTML5 Drag and Drop API.
+This project was built to strengthen my understanding of DOM manipulation, event handling, and dynamic element positioning.
 
 ---
 
@@ -16,10 +16,10 @@ This project was built to strengthen my understanding of DOM manipulation, event
 
 * 🖱️ Drag and drop items between containers
 * 📦 Move elements dynamically
-* ⚡ Interactive user interface
+* ⚡ Real-time interaction without page refresh
+* 🎨 Modern dark-themed user interface
 * 📱 Responsive design
-* 🎨 Modern dark theme with attractive card layout
-* 🔄 Real-time element movement without page refresh
+* 🚀 Simple and user-friendly experience
 
 ---
 
@@ -33,7 +33,7 @@ This project was built to strengthen my understanding of DOM manipulation, event
 
 ## 📷 Project Preview
 
-![Drag and Drop App Demo](Images/drag-and-drop-app-demo.png)
+![Drag & Drop App Demo](Images/drag-and-drop-app-demo.png)
 
 ---
 
@@ -43,8 +43,8 @@ This project was built to strengthen my understanding of DOM manipulation, event
 * Event Handling
 * HTML5 Drag and Drop API
 * JavaScript Events
-* CSS Flexbox
 * Dynamic Element Positioning
+* CSS Flexbox
 * Responsive Web Design
 
 ---
